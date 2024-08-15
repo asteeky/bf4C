@@ -4,6 +4,8 @@ Features
 * Vehicle ESP : 3D Box
 * Soldier ESP : 2D/3D Box, BoxFilled, Line, HealthBar, Distance, VisCheck...
 
+- AIMBOT
+
 - Misc
 * StreamProof
 * Spectator NameList
